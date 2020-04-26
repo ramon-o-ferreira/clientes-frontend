@@ -1,1 +1,1 @@
-# Frontend das Lojas
+# Frontend dos Clientes
